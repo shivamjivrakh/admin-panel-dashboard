@@ -20,7 +20,7 @@ const Sidebar = () => {
         </Link>
 
         <Link className="flex items-center gap-3" to="/users">
-          <FaUsers /> Users
+          <FaUsers /> Users 
         </Link>
 
         <Link className="flex items-center gap-3" to="/products">
@@ -33,6 +33,9 @@ const Sidebar = () => {
 
         <Link className="flex items-center gap-3" to="/settings">
           <FaCog /> Settings
+        </Link>
+         <Link className="flex items-center gap-3" to="/settings">
+          <FaCog /> Terms & Conditions
         </Link>
       </nav>
     </aside>
