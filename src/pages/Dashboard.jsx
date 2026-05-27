@@ -6,7 +6,7 @@ const Dashboard = () => {
     <DashboardLayout>
       <div>
         <h1 className="text-3xl font-bold mb-5">
-          Dashboard Analytics
+          Shivam Jivrakh
         </h1>
 
         <div className="grid grid-cols-4 gap-5">
